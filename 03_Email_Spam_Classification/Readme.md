@@ -1,6 +1,6 @@
 # Email Spam Classification
 
-This project implements binary classifiers to identify spam versus legitimate (ham) emails using machine learning techniques.
+This project implements binary classifiers to identify spam versus legitimate emails using machine learning techniques.
 
 ## Features
 
