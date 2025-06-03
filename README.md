@@ -17,9 +17,9 @@ This repository currently includes the following machine learning projects:
 
 | Project | Description | Type | Status |
 |---------|-------------|------|--------|
-| [House Price Prediction](#house-price-prediction) | Predicting house prices using regression techniques | Regression | ✅ Complete |
-| [Iris Flower Detection](#iris-flower-detection) | Classifying iris flower species using machine learning | Classification | ✅ Complete |
-| Project 3 | Coming Soon... | - | 🔄 In Progress |
+| House Price Prediction| Predicting house prices using regression techniques | Regression | ✅ Complete |
+| Iris Flower Detection| Classifying iris flower species using machine learning | Classification | ✅ Complete |
+| Email Spasm Classification| Classification to identify spam versus legitimate emails | Classification | ✅ Complete|
 | Project 4 | Coming Soon... | - | ⏳ Planned |
 | Project 5 | Coming Soon... | - | ⏳ Planned |
 | Project 6 | Coming Soon... | - | ⏳ Planned |
